@@ -1,0 +1,63 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: rgba(67, 68, 85, 1);
+}
+
+a {
+    color: rgba(67, 68, 85, 1);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(64, 75, 191, 1);
+}
+
+button {
+    font-size: 16px;
+    line-height: 1.5;
+    color:rgba(255, 255, 255, 1);
+    background-color: rgba(77, 90, 229, 1);
+    width: 169px;
+    height: 56px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(64, 75, 191, 1);  
+}
+
+.menu-nav {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.contacts {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.main-page {
+    background-color: rgba(46, 47, 66, 1);
+}
+
+h1 {
+    font-size: 56px;
+    color: rgba(255, 255, 255, 1);
+    line-height: 1.07;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 1.11;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
