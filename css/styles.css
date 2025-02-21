@@ -33,15 +33,15 @@ body {
     letter-spacing: 0.02em;
 }
 
-.navigation a {
+.navigation {
     color: #2e2f42;
 }
 
-.navigation a:hover {
+.navigation:hover {
     color: #404bbf;
 }
 
-.navigation a:focus {
+.navigation:focus {
     color: #404bbf;
 }
 
