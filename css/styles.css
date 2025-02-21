@@ -26,19 +26,22 @@ body {
     background-color: #2e2f42;
 }
 
-.nav {
+.navigation {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.navigation a {
     color: #2e2f42;
 }
 
-.nav:hover {
+.navigation a:hover {
     color: #404bbf;
 }
 
-.nav:focus {
+.navigation a:focus {
     color: #404bbf;
 }
 
@@ -57,7 +60,7 @@ body {
     color: #404bbf;
 }
 
-.head1 {
+.head-main-page {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -65,7 +68,7 @@ body {
     color: #ffffff;
 }
 
-.head1-btn {
+.head-btn {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -76,11 +79,11 @@ body {
     cursor: pointer
 }
 
-.head1-btn:hover {
+.head-btn:hover {
     background-color: #404BBF;
 }
 
-.head1-btn:focus {
+.head-btn:focus {
     background-color: #404BBF;
 }
 
